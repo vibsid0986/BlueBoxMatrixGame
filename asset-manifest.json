@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlueBoxMatrixGame/static/css/main.90d0fa21.css",
+    "main.js": "/BlueBoxMatrixGame/static/js/main.23b0e4c9.js",
+    "index.html": "/BlueBoxMatrixGame/index.html",
+    "main.90d0fa21.css.map": "/BlueBoxMatrixGame/static/css/main.90d0fa21.css.map",
+    "main.23b0e4c9.js.map": "/BlueBoxMatrixGame/static/js/main.23b0e4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d0fa21.css",
+    "static/js/main.23b0e4c9.js"
+  ]
+}
