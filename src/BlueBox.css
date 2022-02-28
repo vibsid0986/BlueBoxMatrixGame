@@ -1,0 +1,13 @@
+.blue-box {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  margin: 5px;
+  cursor: pointer;
+}
+.red-color-box {
+  background-color: red;
+}
+.blue-color-box {
+  background-color: blue;
+}
